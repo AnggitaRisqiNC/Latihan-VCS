@@ -1,14 +1,10 @@
 # Latihan-VCS
+instalasi
+  1. Download terlebih dahulu GIT di google dengan kata kuncigit-scm.
+  2. Download sesuai rekomendasi dari GIT (Misal: Windows/macOS/lainnya).
+  3. Setelah download terinstal lakukan konfigurasi aplikasi, kliknkanan pada mouse maka akan tampil 'GIT bash here'
+  
 Cara Menggunakan Git
-1. Download Git, pada website resminya Git (git-scm.com)
-2. Kemudian Login Github dan konfigurasi username dan useremail
-3. Buat Repository
-4. Buat Folder pada Windows
-5. Buka Folder pada Windows
-6. Buka Folder Menggunakan Git Bash
-7. Ubah File Menjadi Repository
-8. Tambahkan File ke Repository
-9. Buat Commit
-10. Remote Repository Github
-11. Push ke Github
-12. Terakhir Cek File
+  1. klik kanan pada mouse di folder yang kosong lalu GIT bash here.
+  2. lalu akan muncul sebuah command line.
+  3. 
