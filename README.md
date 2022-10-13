@@ -1,7 +1,7 @@
 # Latihan-VCS
 Instalasi
   1. Download terlebih dahulu GIT di google dengan kata kunci git-scm.
-  2. Download sesuai rekomendasi dari GIT (Misal: Windows/macOS/lainnya).
+  2. Download sesuai rekomendasi dari GIT (Misal: windows/macOS/lainnya).
   3. Setelah download terinstal lakukan konfigurasi aplikasi, klik kanan pada mouse maka akan tampil 'git bash here'
   
 Cara Menggunakan Git
