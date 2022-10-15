@@ -4,7 +4,7 @@
 #### Cara Instalasi GIT
     1. Download Aplikasi GIT, buka website resminya GIT di git-scm.com
     2. Lalu klik next saja semua sampai ke step install, lalu tunggu sampai selesai.
-    3. Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa melakukan proses atau belum jika muncul git version berarti sudah siap melakukan proses. Untuk mengetahui versinya ketikan perintah git --version.
+    3. Setelah melakukan penginstalan, buka git cmd untuk mengetahui apakah sudah bisa melakukan proses atau belum (Untuk mengetahui versinya ketikan perintah git --version).
 #### Cara Membuat Akun GIT
     1. Anda harus membuat akun git terlebih dahulu untuk membuat repository server bukalah link tersebut http://github.com
     2. Setelah selesai mengisi username dan useremail anda klik daftar akun GitHub.
@@ -19,5 +19,7 @@
     6. Lalu, 'git remote add origin ' untuk meremote repository local ke server.
     7. Lalu, 'git push -u origin main' untuk mengupload respository local ke server.
     
-### Contoh Gambar
+### Contoh Cara Penggunaan GIT
 ![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar1.png)
+![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar2.png)
+![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar3.png)
