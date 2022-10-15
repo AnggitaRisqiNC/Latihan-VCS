@@ -18,3 +18,6 @@
     5. Lalu, 'git commit' untuk menyimpan perubahan ke dalam database git.
     6. Lalu, 'git remote add origin ' untuk meremote repository local ke server.
     7. Lalu, 'git push -u origin main' untuk mengupload respository local ke server.
+    
+### Contoh Gambar
+![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar1.png)
