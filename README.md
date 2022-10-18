@@ -14,12 +14,13 @@
 1. Klik kanan pada mouse di folder yang kosong, lalu git bash here.
 2. Lalu, akan muncul sebuah command line.
 3. Lakukan konfigurasi dengan menjalankan 'git config' yang berisi username dan useremail.
+##### Contoh cara menggunakan "git config"
+![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar1.png)
 4. Lalu, 'git add' untuk menambahkan sebuah file.
 5. Lalu, 'git commit' untuk menyimpan perubahan ke dalam database git.
+##### Contoh cara Menggunakan "git add dan git commit"
+![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar2.png)
 6. Lalu, 'git remote add origin ' untuk meremote repository local ke server.
 7. Lalu, 'git push -u origin main' untuk mengupload respository local ke server.
-    
-### Contoh Cara Penggunaan GIT
-![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar1.png)
-![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar2.png)
+##### Contoh cara menggunakan "git push -u origin main"
 ![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar3.png)
