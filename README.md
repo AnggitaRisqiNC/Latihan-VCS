@@ -21,7 +21,7 @@
    
 4. Lalu, 'git add' untuk menambahkan sebuah file.
 5. Lalu, 'git commit' untuk menyimpan perubahan ke dalam database git.
-   #### Contoh cara Menggunakan "git add dan git commit"
+   #### Contoh cara menggunakan "git add dan git commit"
    ![image](https://github.com/AnggitaRisqiNC/LatihanVCS/blob/main/screenshot/gambar2.png)
   
 6. Lalu, 'git remote add origin ' untuk meremote repository local ke server.
